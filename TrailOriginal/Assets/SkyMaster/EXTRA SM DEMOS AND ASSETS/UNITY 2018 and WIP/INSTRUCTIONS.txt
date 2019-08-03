@@ -1,0 +1,30 @@
+This folder contains two extra packages, one for Unity 2018 compatibility and one for 
+the upcoming v4.0 WIP Betas.
+
+The Unity 2018 folder has the new version of Sky Master for Unity 2018 (Exported with Beta 13).
+This version can also be used as standalone, so it can be imported alone and used directly in
+a project (to avoid having to use the demo assets and use the minimal disk space).
+
+Also this version contains a prefab made for direct use in Linear Color space.
+
+The "VOLUME CLOUDS v4.0 and SEGI" folder contains a Unity 5.6 exported Unity package with the
+early Beta WIP for the new v4.0 clouds system and an optimized version of SEGI. It also
+adds a few demo scenes for reference. 
+
+The system is not yet documented, and a video with instructions will follow soon. 
+The InfiniCLOUD script may be used to do the base cloud setup, attach to the main camera and press the buttons in 
+succesion to activate the base and various extra systems.
+
+Make sure to add the "Background" layer to Unity layers at editor time, if the Blend with background
+option is used (it is setup using the "Setup Back Layer" Button, set the layer before pressing the
+button to avoid errors). Also make sure to add the "TerrainSM" layer first, in order to avoid
+demo mountains move to Background layer (since TerrainSM is the first defined user layer when the
+unitypackage is exported).
+
+Also disable the "Clouds (108) DOME SHADOWS" for getting only the new v4.0 shadows.
+
+The SEGI version uses a new optimization variable (top one in the script), which defaults to 1 (no optimization), 
+and can be set to make the update rate every 2-3 seconds, which can give a big boost to performance.
+
+For any questions and suggestions on the Beta please use my artengames@gmail.com email or the Forum thread.
+

@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.trail.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Administrator\\Trail\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Trail [Testing]"
+        }
+      }
+    }
+  ]
+}
