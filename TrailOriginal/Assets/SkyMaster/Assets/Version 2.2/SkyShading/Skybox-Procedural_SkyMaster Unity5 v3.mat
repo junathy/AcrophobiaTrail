@@ -30,7 +30,7 @@ Material:
     m_Floats:
     - Bump_strenght: 0
     - HorizonY: -0.06
-    - Horizon_adj: 10.307054
+    - Horizon_adj: 10.319091
     - SunBlend: 66
     - White_cutoff: 6.2
     - _Coloration: 0
@@ -60,5 +60,5 @@ Material:
     - _TintColor: {r: 0, g: 0, b: 0, a: 0}
     - v3CameraPos: {r: -62.67624, g: -10002, b: -107.306, a: 0}
     - v3InvWavelength: {r: 18.838013, g: 95.36744, b: 162.69263, a: 0}
-    - v3LightDir: {r: 0.15982385, g: -0.3050707, b: -0.93882275, a: 0}
+    - v3LightDir: {r: 0.15981776, g: -0.30503756, b: -0.93883455, a: 0}
     - v3LightDirMoon: {r: 0, g: 0, b: 1, a: 0}

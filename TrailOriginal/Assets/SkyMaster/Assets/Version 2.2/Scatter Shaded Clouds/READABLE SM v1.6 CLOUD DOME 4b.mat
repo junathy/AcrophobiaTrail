@@ -55,7 +55,7 @@ Material:
     - PixelSnap: 0
     - _Alpha: 0.25
     - _AmbientFactor: 1
-    - _CloudCover: 0.80000055
+    - _CloudCover: 0.8002802
     - _CloudDensity: 0
     - _CloudSharpness: 0.996
     - _CloudSize: 1
